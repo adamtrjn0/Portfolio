@@ -6,4 +6,5 @@ My goal for now is to gain knowledge about software testing, overall software en
 On this site I would like to share my all gained experience from personal studies and researches.
 # Tools
 
-*[Bug Magnet](https://bugmagnet.org/) - Exploratory testing assistant
+* [Bug Magnet](https://bugmagnet.org/) - Exploratory testing assistant
+* [Temp Mail](https://temp-mail.org/pl/) - Temporary mailbox
