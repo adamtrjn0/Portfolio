@@ -8,3 +8,5 @@ On this site I would like to share my all gained experience from personal studie
 
 * [Bug Magnet](https://bugmagnet.org/) - Exploratory testing assistant
 * [Temp Mail](https://temp-mail.org/pl/) - Temporary mailbox
+* [MindMeister](https://www.mindmeister.com/) - Mind mapping tool
+* [Narzędzia testerzy,pl](http://generator-hasel.testerzy.pl/) - Set of various tools helpful for testing
