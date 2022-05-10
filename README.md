@@ -10,3 +10,5 @@ On this site I would like to share my all gained experience from personal studie
 * [Temp Mail](https://temp-mail.org/pl/) - Temporary mailbox
 * [MindMeister](https://www.mindmeister.com/) - Mind mapping tool
 * [Narzędzia testerzy,pl](http://generator-hasel.testerzy.pl/) - Set of various tools helpful for testing
+* [Web Developer](https://chrispederick.com/work/web-developer/) - Toolbar helpful for web develeopers as well as testers
+* [Postman](https://www.postman.com/) - API platform for building and using APIs
