@@ -21,3 +21,7 @@ On this site I would like to share my all gained experience from personal studie
 * Software testing
 * Creating test cases
 * Reporting bugs
+
+# Bug reports examples
+
+* [Bug reports](https://docs.google.com/spreadsheets/d/1DeBzmj_F3TFsi0Q8OILcU2D6jTUl18NHbbeyCYmEKPA/edit?usp=sharing)
