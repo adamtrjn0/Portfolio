@@ -9,7 +9,7 @@ On this site I would like to share my all gained experience from personal studie
 * [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) -  Fill all inputs with randomly generated names, emails, phone numbers, etc.
 * [Bug Magnet](https://bugmagnet.org/) - Exploratory testing assistant
 * [Temp Mail](https://temp-mail.org/pl/) - Temporary mailbox
-* [MindMeister](https://www.mindmeister.com/)[,XMind](https://www.xmind.net/) - Mind mapping tools
+* [MindMeister](https://www.mindmeister.com/),[XMind](https://www.xmind.net/) - Mind mapping tools
 * [Narzędzia testerzy,pl](http://generator-hasel.testerzy.pl/) - Set of various tools helpful for testing
 * [Web Developer](https://chrispederick.com/work/web-developer/) - Toolbar helpful for web develeopers as well as testers
 * [Postman](https://www.postman.com/) - API platform for building and using APIs
