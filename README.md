@@ -24,4 +24,8 @@ On this site I would like to share my all gained experience from personal studie
 
 # Bug reports examples
 
-* [Bug reports for albicla.pl site](https://docs.google.com/spreadsheets/d/1x1S4zaGbirUWVp0XWSf6kwc8iq2riWwBZ7ExHxApk_k/edit?usp=sharing)
+* [Bug reports for albicla.pl site](https://drive.google.com/file/d/1gdzhT5k90nZvV5ir7dn2w3bv1Cv2no6A/view?usp=sharing)
+
+# Test cases examples
+
+* [Test cases for habitica.com site](https://drive.google.com/file/d/1j56f0kkPzdvJu6J2aC-_VyCApHYE9GL1/view?usp=sharing)
