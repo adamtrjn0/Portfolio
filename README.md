@@ -17,11 +17,13 @@ On this site I would like to share my all gained experience from personal studie
 
 * SQL
 * Java
+* Jira
 * Postman
 * Devtools
 * Software testing
 * Creating test cases
 * Reporting bugs
+
 
 # Bug reports examples
 
