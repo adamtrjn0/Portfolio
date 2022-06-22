@@ -32,3 +32,7 @@ On this site I would like to share my all gained experience from personal studie
 # Test cases examples
 
 * [Test cases for habitica.com site](https://drive.google.com/file/d/1j56f0kkPzdvJu6J2aC-_VyCApHYE9GL1/view?usp=sharing)
+
+# Decision table examples
+
+* [Decision table for flixbus.co.uk ticket search engine](https://drive.google.com/file/d/1G4ThADCQ-196Y_racHoJYK0873xGpT1V/view?usp=sharing)
