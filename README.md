@@ -5,6 +5,7 @@ Even though I am a big fan of exploratory testing I also understand importance o
 My goal for now is to gain knowledge about software testing, overall software engineering and finally land a job as a junior QA / manual tester.
 # Tools I use
 
+* [BugReportToolByAT] (https://github.com/adamtrjn0/bug-reporting-tool-by-at) - Simple command line program for writing bug reports faster made by me
 * [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) -  Fill all inputs with randomly generated names, emails, phone numbers, etc.
 * [Bug Magnet](https://bugmagnet.org/) - Exploratory testing assistant
 * [Temp Mail](https://temp-mail.org/pl/) - Temporary mailbox
