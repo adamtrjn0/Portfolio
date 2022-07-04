@@ -28,7 +28,7 @@ My goal for now is to gain knowledge about software testing, overall software en
 # Bug reports examples
 
 * [Bug reports for albicla.pl site](https://drive.google.com/file/d/1gdzhT5k90nZvV5ir7dn2w3bv1Cv2no6A/view?usp=sharing)
-* [Bug reports for cloudpaint.com/photo site (some of them aren't added to the issues page by me directly but were reported by e-mail, I've just recently started to report them directly, all of them are marked by comment written by me.)](https://github.com/martin19/cloudpaint/issues)
+* [Bug reports for cloudpaint.com/photo site](https://github.com/martin19/cloudpaint/issues) - some of them aren't added to the issues page by me directly but were reported by e-mail, I've just recently started to report them directly, all bug reports written by me are marked by the "." comment)
 
 # Test cases examples
 
